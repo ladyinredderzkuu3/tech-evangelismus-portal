@@ -6,7 +6,7 @@ body {
 }
 header {
     background-color: var(--header-bg-color);
-    color: white;
+    color: var(--header-text-color);
     text-align: center;
     padding: 1rem;
 }
