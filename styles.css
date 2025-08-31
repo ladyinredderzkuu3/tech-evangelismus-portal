@@ -41,3 +41,10 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+:root {
+    --footer-bg-color: #388E3C;
+}
+footer {
+    background-color: var(--footer-bg-color);
+}
