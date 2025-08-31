@@ -35,7 +35,7 @@ section {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #388E3C; /* Darker shade of green */
+    background-color: var(--footer-bg-color);
     color: white;
     position: relative;
     bottom: 0;
@@ -44,7 +44,4 @@ footer {
 
 :root {
     --footer-bg-color: #388E3C;
-}
-footer {
-    background-color: var(--footer-bg-color);
 }
