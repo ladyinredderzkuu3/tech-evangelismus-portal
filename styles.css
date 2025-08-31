@@ -47,3 +47,7 @@ footer {
     --header-bg-color: #4CAF50;
     --header-text-color: #FFFFFF;
 }
+
+footer a {
+    color: #f7f7f7; /* Changed footer text color for better visibility */
+}
