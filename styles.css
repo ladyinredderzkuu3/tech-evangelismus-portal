@@ -5,7 +5,7 @@ body {
     background-color: #f7f7f7;
 }
 header {
-    background-color: #4CAF50;
+    background-color: var(--header-bg-color);
     color: white;
     text-align: center;
     padding: 1rem;
